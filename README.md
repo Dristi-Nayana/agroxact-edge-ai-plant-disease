@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
 # AgroXact: Lightweight Edge-AI Plant Disease Detection using Knowledge Distillation
 
 AgroXact is a lightweight and deployable deep learning framework for plant disease detection and severity estimation, designed for real-time inference on edge devices such as smartphones, drones, and agribots.
