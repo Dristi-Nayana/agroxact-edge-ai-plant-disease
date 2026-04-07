@@ -1,0 +1,34 @@
+Apple Leaf
+Apple Rust Leaf
+Apple Scab Leaf
+Bell Pepper Bacterial Spot
+Bell Pepper Healthy
+Bell Pepper Leaf
+Bell Pepper Leaf Spot
+Blueberry Leaf
+Cherry Leaf
+Corn Gray Leaf Spot
+Corn Leaf Blight
+Corn Rust Leaf
+Grape Leaf
+Grape Leaf Black Rot
+Peach Leaf
+Potato Early Blight
+Potato Healthy
+Potato Late Blight
+Raspberry Leaf
+Soyabean Leaf
+Squash Powdery Mildew Leaf
+Strawberry Leaf
+Tomato Bacterial Spot
+Tomato Early Blight
+Tomato Healthy
+Tomato Late Blight
+Tomato Leaf
+Tomato Leaf Mold
+Tomato Mold Leaf
+Tomato Mosaic Virus
+Tomato Septoria Leaf Spot
+Tomato Target Spot
+Tomato Two Spotted Spider Mite
+Tomato Yellow Leaf Curl Virus
