@@ -99,9 +99,9 @@ Includes 34 plant disease categories such as:
 
 Due to size limitations:
 
-🔗 Teacher Model (EfficientNet-B4): ADD_LINK
-🔗 Student Model (EfficientNet-B0): ADD_LINK
-🔗 Mobile Model (.pt): ADD_LINK
+🔗 Teacher Model [EfficientNet-B4](https://drive.google.com/file/d/1-hG50j0jmws4Ld1i8q8JoTQZDvxYN2lW/view?usp=sharing)
+🔗 Student Model [EfficientNet-B0](https://drive.google.com/file/d/1txUNDlIJR_V6e0Rb6YpBBucv_o0bYD6Q/view?usp=sharing)
+🔗 Mobile Model ([.pt](https://drive.google.com/file/d/1Fvn2Iy05YrVmXLpGjOongKMzYBSucqzF/view?usp=sharing))
 
 ---
 
